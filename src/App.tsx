@@ -225,7 +225,7 @@ export default function App() {
             {/* 오른쪽 스트림릿 임베드 구역 */}
             <div className="lg:w-2/3 bg-white h-[600px] relative group">
               <iframe 
-                src="https://my-stock-vjddvx5wzvxcc5stbpgpd2.streamlit.app/?embed=true" 
+                src="https://my-stock-vjddvx5wzvxcc5stbpgpd2.streamlit.app/?embed=true&view=clean" 
                 className="w-full h-full border-none"
                 title="Streamlit Portfolio Dashboard"
               ></iframe>
@@ -331,7 +331,7 @@ export default function App() {
       <footer className="bg-[#001529] py-16 px-6 border-t border-white/5 text-center md:text-left text-slate-500 text-[10px] font-bold tracking-widest uppercase">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-10">
           <span className="text-xl font-bold tracking-tighter text-white">HYUN & PARTNERS</span>
-          <p>© 2026 현앤파트너스 주식회사. All Rights Reserved.</p>
+          <p>© 2026 HYUN & PARTNERS 주식회사. All Rights Reserved.</p>
         </div>
       </footer>
     </div>
