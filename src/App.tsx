@@ -127,7 +127,7 @@ export default function App() {
         >
           <p className="text-blue-300 tracking-[0.3em] uppercase mb-4 text-sm font-semibold">Real Estate & Finance Intelligence</p>
           <h1 className="text-4xl md:text-7xl font-bold text-white mb-8 leading-tight">
-            가치 있는 자산 관리의<br />새로운 기준, <span className="text-blue-400">현앤파트너스</span>
+            자산 가치 제고의<br />새로운 기준, <span className="text-blue-400">현앤파트너스</span>
           </h1>
           <p className="text-slate-200 text-lg md:text-xl max-w-2xl mx-auto mb-10 font-light">
             부동산 컨설팅부터 NPL 투자까지, 전문적인 분석과 통찰력으로<br className="hidden md:block" /> 귀하의 자산을 최적화합니다.
@@ -163,7 +163,7 @@ export default function App() {
                 변화하는 시장 환경에서도<br /> 흔들리지 않는 신뢰의 파트너
               </h2>
               <p className="text-slate-600 leading-relaxed mb-6 text-lg">
-                현앤파트너스 주식회사는 급변하는 금융 및 부동산 시장에서 정확한 데이터 분석과 풍부한 네트워크를 바탕으로 최상의 컨설팅 솔루션을 제공합니다.
+                현앤파트너스 주식회사는 급변하는 금융 환경에서 정확한 데이터 분석과 풍부한 네트워크를 바탕으로 최상의 컨설팅 솔루션을 제공합니다.
               </p>
               <p className="text-slate-600 leading-relaxed mb-8">
                 우리는 단순히 자산을 관리하는 것을 넘어, 고객의 비즈니스 가치를 극대화하고 지속 가능한 수익 구조를 창출하는 데 집중합니다. 서울 도봉구 씨드큐브의 새로운 중심지에서 혁신적인 금융 모델을 선도합니다.
@@ -323,7 +323,7 @@ export default function App() {
                   </div>
                   <div>
                     <h4 className="font-bold text-slate-900">Phone</h4>
-                    <p className="text-slate-600 mt-1">02-123-4567</p>
+                    <p className="text-slate-600 mt-1">02-6314-7430</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -332,7 +332,7 @@ export default function App() {
                   </div>
                   <div>
                     <h4 className="font-bold text-slate-900">Email</h4>
-                    <p className="text-slate-600 mt-1">info@hyun-partners.com</p>
+                    <p className="text-slate-600 mt-1">david@hyun-partners.com</p>
                   </div>
                 </div>
               </div>
