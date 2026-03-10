@@ -195,14 +195,13 @@ export default function App() {
         </div>
       </section>
 
-      {/* ★★★ Portfolio Section (이 부분이 추가되었습니다) ★★★ */}
+      {/* Portfolio Section */}
       <section id="portfolio" className="py-24 bg-white px-6">
         <div className="max-w-7xl mx-auto">
           <motion.div 
             {...fadeInUp}
             className="bg-slate-900 rounded-[32px] overflow-hidden shadow-2xl flex flex-col lg:flex-row border border-slate-800"
           >
-            {/* 왼쪽 설명 구역 */}
             <div className="lg:w-1/3 p-10 lg:p-16 flex flex-col justify-center">
               <span className="text-blue-400 font-bold tracking-[0.2em] text-[10px] uppercase mb-4">Live Performance</span>
               <h3 className="text-3xl font-bold text-white mb-6 leading-tight tracking-tight">
@@ -213,7 +212,7 @@ export default function App() {
                 실시간 데이터를 통해 자산 배분의 성과를 직접 확인하십시오.
               </p>
               <a 
-                href="https://my-stock-vjddvx5wzvxcc5stbpgpd2.streamlit.app/" 
+                href="https://portfolio-현준님의-새주소.streamlit.app/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 px-8 rounded-xl transition-all w-fit shadow-lg shadow-blue-900/20"
@@ -222,10 +221,9 @@ export default function App() {
               </a>
             </div>
 
-            {/* 오른쪽 스트림릿 임베드 구역 */}
             <div className="lg:w-2/3 bg-white h-[600px] relative group">
               <iframe 
-                src="https://my-stock-vjddvx5wzvxcc5stbpgpd2.streamlit.app/?embed=true&view=clean" 
+                src="https://portfolio-현준님의-새주소.streamlit.app/?embed=true" 
                 className="w-full h-full border-none"
                 title="Streamlit Portfolio Dashboard"
               ></iframe>
