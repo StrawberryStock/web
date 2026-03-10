@@ -223,9 +223,9 @@ export default function App() {
 
             <div className="lg:w-2/3 bg-white h-[600px] relative group">
               <iframe 
-                src="https://portfolio-현준님의-새주소.streamlit.app/?embed=true" 
+                src="https://portfolio-e8v7rgsx9o5mqo9sbghwlk.streamlit.app/?embed=true" 
                 className="w-full h-full border-none"
-                title="Streamlit Portfolio Dashboard"
+                title="Real Portfolio"
               ></iframe>
               <div className="absolute inset-0 bg-black/5 pointer-events-none group-hover:bg-transparent transition-all flex items-center justify-center">
                 <p className="text-white bg-blue-900/90 px-5 py-2.5 rounded-full text-[10px] font-bold tracking-widest uppercase backdrop-blur-md opacity-0 group-hover:opacity-100 transition-all shadow-xl">
